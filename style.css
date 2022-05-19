@@ -1,0 +1,43 @@
+.container {
+  background-color: #fecea8;
+  padding-top: 50px;
+  color: #2a363b;
+}
+.main-header {
+  color: #fecea8;
+  text-align: center;
+  border: 1px solid #b9b9b9;
+  padding: 20px;
+  margin: 20px;
+  background-color: #e84a5f;
+}
+.title {
+  font-style: italic;
+  font-weight: 400;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.recipe {
+  margin: 30px;
+  padding-left: 100px;
+}
+.form-container {
+  background-color: #ff847c;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  max-width: 600px;
+  padding: 30px;
+}
+.submit {
+  background-color: #2a363b;
+  color: #ff847c;
+  margin: 3px;
+  border: 1px solid #ff847c;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+}
